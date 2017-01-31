@@ -9,7 +9,12 @@
 
   <name>hp</name>
   <url>http://maven.apache.org</url>
-
+<scm>
+		<url>https://github.com/samith212324/hacker.git</url>
+		<connection>scm:git:git://github.com/samith212324/hacker.git</connection>
+		<developerConnection>scm:git:git@github.com:samith212324/hacker.git</developerConnection>
+	  <tag>HEAD</tag>
+  </scm>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
